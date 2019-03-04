@@ -7,11 +7,13 @@ https://github.com/ewang73/proj2
 
 1. Packages
     Must have java and ant installed.
-    ABAGAIL package from pushkar https://github.com/pushkar/ABAGAIL
+    Download ABAGAIL package from pushkar https://github.com/pushkar/ABAGAIL
+
     ABAGAIL source code has been modified to fit the need of the assignment
+    move "src" folder into ABAGAIL to replace files
 
 2. Main source files for the assignment are in:
-    ABAGAIL\src\opt\test
+    src\opt\test
 
     Namely:
     -IrisANN.java
